@@ -1,0 +1,9 @@
+Building Miroskii
+
+See doc/readme-qt.rst for instructions on building Miroskii QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Miroskii.
+
+See doc/build-*.txt for instructions on building miroskiid,
+the intended-for-services, no-graphical-interface, reference
+implementation of Miroskii.
